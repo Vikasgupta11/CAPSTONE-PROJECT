@@ -1,0 +1,16 @@
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    color:#fff;
+
+}
+
+/*  plus buutton for adding new users Bottom Right */
+.box{
+
+    position: fixed;
+    bottom: 0px;
+    right: 20px;
+    margin-bottom: 30px;
+}
